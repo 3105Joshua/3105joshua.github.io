@@ -1,0 +1,15 @@
+theme: jekyll-theme-minimal
+title: Josh's Homepage
+description: >
+  Hi! My name is Josh Liu, a senior studying Computer Engineering at the University of Michigan.
+  This page contains some public projects I've worked on in my time here at UMich.
+  <br><br>
+
+  <a href="https://github.com/your-username/zelda-recreation">
+    Zelda NES Recreation
+  </a>
+  <br>
+  A recreation of the original NES Legend of Zelda Dungeon 1, developed in Unity for EECS 494. 
+  I worked on the movement system and enemy mechanics for the game, including Keeses, Stalfos, Goriyas, Wallmasters, Gels, Bladetraps, and Aquamentus!
+  I also implemented our custom mirror mechanic. I also implemented the player's health, damage, and knockback mechanics. 
+  My partner and I used Github as our version history.
